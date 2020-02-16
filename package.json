@@ -1,0 +1,16 @@
+{
+  "name": "onsite-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^8.0.1",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "jserodio",
+  "license": "ISC"
+}
